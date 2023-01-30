@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Second hand furniture",
+    "slider1": "https://i.ibb.co/DtYSRnD/Web-capture-30-1-2023-10358-second-hand-furniture-e3e71-web-app.jpg",
+    "slider2": "https://i.ibb.co/3c9045F/Web-capture-30-1-2023-1012-second-hand-furniture-e3e71-web-app.jpg",
+    "slider3": "https://i.ibb.co/yBT7kJv/Web-capture-30-1-2023-10148-second-hand-furniture-e3e71-web-app.jpg"
+  },
+  {
+    "title": "Wild life photography",
+    "slider1": "https://i.ibb.co/DtYSRnD/Web-capture-30-1-2023-10358-second-hand-furniture-e3e71-web-app.jpg",
+    "slider2": "https://i.ibb.co/3c9045F/Web-capture-30-1-2023-1012-second-hand-furniture-e3e71-web-app.jpg",
+    "slider3": "https://i.ibb.co/yBT7kJv/Web-capture-30-1-2023-10148-second-hand-furniture-e3e71-web-app.jpg"
+  },
+  {
+    "title": "Learning Platform",
+    "slider1": "https://i.ibb.co/DtYSRnD/Web-capture-30-1-2023-10358-second-hand-furniture-e3e71-web-app.jpg",
+    "slider2": "https://i.ibb.co/3c9045F/Web-capture-30-1-2023-1012-second-hand-furniture-e3e71-web-app.jpg",
+    "slider3": "https://i.ibb.co/yBT7kJv/Web-capture-30-1-2023-10148-second-hand-furniture-e3e71-web-app.jpg"
+  }
+]
